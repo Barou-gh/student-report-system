@@ -1,0 +1,12 @@
+==============================
+      STUDENT REPORT CARD
+==============================
+Maaz | Score: 85 | Grade: B | Status: PASS
+Raaz | Score: 98 | Grade: A | Status: PASS
+Saad | Score: 49 | Grade: F | Status: FAIL
+==============================
+Total Students : 3
+Passed         : 2
+Failed         : 1
+Top Student    : Raaz
+==============================
